@@ -1,6 +1,6 @@
 {
-  "name": "react-tiny-virtual-list",
-  "version": "2.2.0",
+  "name": "react-tiny-virtual-list-oss",
+  "version": "2.3.0",
   "description": "A tiny but mighty list virtualization component, with zero dependencies 💪",
   "main": "build/react-tiny-virtual-list.cjs.js",
   "module": "build/react-tiny-virtual-list.es.js",
@@ -67,14 +67,14 @@
     "email": "me@ced.io"
   },
   "user": "clauderic",
-  "homepage": "https://github.com/clauderic/react-tiny-virtual-list",
+  "homepage": "https://github.com/manvydasu/react-tiny-virtual-list-oss",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/react-tiny-virtual-list.git"
+    "url": "https://github.com/manvydasu/react-tiny-virtual-list-oss.git"
   },
   "bugs": {
-    "url": "https://github.com/clauderic/react-tiny-virtual-list/issues"
+    "url": "https://github.com/manvydasu/react-tiny-virtual-list-oss/issues"
   },
   "keywords": [
     "react",

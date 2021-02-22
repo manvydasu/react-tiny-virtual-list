@@ -1,5 +1,9 @@
 ## Changelog
 
+### 2.3.0
+
+Upgrade dependencies and mark `componentWillReceiveProps` as `UNSAFE` so that no react warnings would be logged to console.
+
 ### 2.2.0
 
 Added support for `stickyIndices`. Pass an array of indexes (eg. [0, 10, 25, 30]) to the `stickyIndices` prop to make certain items in the list sticky (position: sticky) [#55](https://github.com/clauderic/react-tiny-virtual-list/pull/55)
