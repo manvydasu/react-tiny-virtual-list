@@ -1,5 +1,9 @@
 ## Changelog
 
+### 2.3.1
+
+Fix enums not being properly transpiled when building bundle.
+
 ### 2.3.0
 
 Upgrade dependencies and mark `componentWillReceiveProps` as `UNSAFE` so that no react warnings would be logged to console.

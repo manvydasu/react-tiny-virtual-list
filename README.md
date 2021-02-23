@@ -6,8 +6,8 @@
 
 > A tiny but mighty list virtualization library, with zero dependencies 💪
 
-[![npm version](https://img.shields.io/npm/v/react-tiny-virtual-list.svg)](https://www.npmjs.com/package/react-tiny-virtual-list)
-[![npm downloads](https://img.shields.io/npm/dm/react-tiny-virtual-list.svg)](https://www.npmjs.com/package/react-tiny-virtual-list)
+[![npm version](https://img.shields.io/npm/v/react-tiny-virtual-list-oss.svg)](https://www.npmjs.com/package/react-tiny-virtual-list-oss)
+[![npm downloads](https://img.shields.io/npm/dm/react-tiny-virtual-list-oss.svg)](https://www.npmjs.com/package/react-tiny-virtual-list-oss)
 [![Build Status](https://travis-ci.org/clauderic/react-tiny-virtual-list.svg?branch=master)](https://travis-ci.org/clauderic/react-tiny-virtual-list)
 [![codecov](https://codecov.io/gh/clauderic/react-tiny-virtual-list/branch/master/graph/badge.svg)](https://codecov.io/gh/clauderic/react-tiny-virtual-list)
 ![typescript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)
