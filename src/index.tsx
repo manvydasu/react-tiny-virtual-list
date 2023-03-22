@@ -276,11 +276,13 @@ export default class VirtualList extends React.PureComponent<Props, State> {
 
   getDomProps() {
     const {
+      estimatedItemSize,
       scrollToAlignment,
       scrollOffset,
       itemCount,
       itemSize,
       onScroll,
+      onItemsRendered,
       renderItem,
       overscanCount,
       scrollDirection,
